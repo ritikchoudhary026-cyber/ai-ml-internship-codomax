@@ -147,3 +147,5 @@ print("\nStatistics:\n", df.describe())
 # Step 6: Save clean dataset
 df.to_csv("student_scores_clean.csv", index=False)
 print("\nClean dataset saved successfully!")
+
+
